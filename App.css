@@ -1,0 +1,67 @@
+.mainHead{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+  color: darkgray;
+}
+.formbg{
+  display: flex;
+  height: 900px;
+  width: 700px;
+  color: white;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.06);
+ margin-left: 315px;
+ /* align-items: center; */
+ margin-top: 50px;
+ 
+ 
+}
+.firstnametext{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: 40px;
+margin-top: 30px;
+}
+
+.lastnametext{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: 21px;
+margin-top: 30px;
+} 
+
+.workemailtext{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: -627px;
+margin-top: 155px;
+} 
+
+.passwordtext{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: -627px;
+margin-top: 280px;
+} 
+
+
+.organizationNameText{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: -627px;
+margin-top: 405px;
+} 
+.organizationSizeText{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: -627px;
+margin-top: 530px;
+} 
+
+.industryText{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: slategray  ;
+margin-left: -627px;
+margin-top: 655px;
+} 
+
